@@ -11,7 +11,7 @@ Passionate about building modern, scalable web and mobile applications with clea
 <p align="center">
 <a href="https://mohamedjagdal.com">🌐 Website</a> •
 <a href="https://www.linkedin.com/in/mohamedjagdal/">LinkedIn</a> •
-<a href="mailto:youremail@gmail.com">Email</a>
+<a href="mailto:estjagdal@gmail.com">Email</a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 
 <p align="center">
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:estjagdal@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/mohamedjagdal/">
