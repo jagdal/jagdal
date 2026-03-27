@@ -37,7 +37,7 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 </tr>
 </table>
 
-## 🤝 Connect with me
+##  Connect with me
 
 <p align="center">
 
@@ -55,7 +55,7 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
 
@@ -67,7 +67,7 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 
 
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -82,7 +82,3 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 </p>
 
 ---
-
-<p align="center">
-🚀 Building real-world applications with passion
-</p>
