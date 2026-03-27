@@ -42,7 +42,7 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 <p align="center">
 
 <a href="mailto:estjagdal@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/mohamedjagdal/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
