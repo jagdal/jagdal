@@ -39,16 +39,19 @@ I am Mohamed Jagdal, a Full Stack Developer passionate about building modern web
 
 ##  Connect with me
 
+
 <p align="center">
 
 <a href="mailto:estjagdal@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/mohamedjagdal/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://github.com/jagdal">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 </p>
