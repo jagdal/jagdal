@@ -8,7 +8,7 @@ I enjoy creating clean, efficient, and user-friendly applications.
 
 ---
 
-### 📫 Reach me out!
+### Reach me out!
 
 <p align="center">
 
@@ -24,7 +24,7 @@ I enjoy creating clean, efficient, and user-friendly applications.
 
 ---
 
-### 🚀 Technologies & Tools
+### Top Technologies
 
 <p align="center">
 
